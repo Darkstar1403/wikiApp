@@ -1,0 +1,52 @@
+html, body{
+  height: 100vh;
+  width: 100vw;
+  background-color: #666;
+}
+.Logo{
+  width: 300px !important;
+
+}
+.width-100{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.color-udg-azul{
+  color: #005588 !important;
+}
+.text-white{
+  color: white;
+}
+.boton-azul{
+  background-color: transparent;
+  border-color: #005588;
+  color: #005588;
+}
+.boton-azul:hover{
+  background-color: #005588;
+  color: white;
+}
+.card{
+  height: 350px !important;
+}
+.card-detail{
+  height: 82vh !important;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem
+}
+.card-img-top{
+  height: 200px !important;
+}
+.blue-text{
+  color: #005588;
+}
+.card-body{
+  height: 100px !important;
+}
